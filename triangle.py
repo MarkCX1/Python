@@ -14,4 +14,3 @@ if x + 2 * y < X3 and 0 <= x <= X3 and 0 <= y <= Y2:
     print("The point is in the triangle ")
 else:
     print("The point is not in the triangle ")
-© 2021 GitHub, Inc.
