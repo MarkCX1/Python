@@ -11,4 +11,3 @@ elif distance <= r1 + r2:
     print("circle2 overlaps circle1")
 else:
     print("circle2 does not overlap circle1")
-© 2021 GitHub, Inc.
